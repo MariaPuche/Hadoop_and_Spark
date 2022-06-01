@@ -2,7 +2,7 @@
 
 De forma general, un server log es un archivo de log generado por el servidor con una lista de las actividades que se ejecutan. En este ejemplo, hay un web server log el cuál mantiene un historial de las peticiones realizadas a la página. Este tipo tienen un formato standard. Se utilizan, generalmente, para analizarlos y sacar conclusiones de ellos, como localizar ataques, detectar errores comunes, etc.
 
-En este caso, se analiza el dataset de los web server logs de la NASA, que están compuestos por ese tipo de registros:
+En este caso, se analiza el dataset de los web server logs de la NASA (https://www.kaggle.com/datasets/adchatakora/nasa-http-access-logs), que están compuestos por ese tipo de registros:
 
 133.43.96.45 - - [01/Aug/1995:00:00:23 -0400] "GET /images/launch-logo.gif HTTP/1.0" 200 1713
 
