@@ -24,3 +24,11 @@ Una vez que se vuelva abrir la VM ya estará habilitada la carpeta compartida en
 Seguir el siguiente recorrido dentro de la VM.
 
     System -> Preferences -> Keyboard -> Layouts (Spanish)
+
+Escribir en consola:
+
+        locale
+Para ver en que idioma esta el terminal.
+
+        locale -a
+Para ver los idiomas que tenemos instalados.
